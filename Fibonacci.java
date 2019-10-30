@@ -7,7 +7,7 @@ c=a+b;
 System.out.print(a+"\t"+b+"\t");
 while(c<=200)
 {
-System.out.print(c+"\t");
+System.out.print(c+"\t");     //svdfgsucfgus
 a=b;
 b=c;
 c=a+b;
