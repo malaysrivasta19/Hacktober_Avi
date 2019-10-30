@@ -17,6 +17,6 @@ a[j-i-1]=k;
 }
 System.out.println("New array is");
 for(int x:a)
-System.out.print(x+"\t");
+System.out.print(x+"\t");     //njksabncnakcna
 }
 }
