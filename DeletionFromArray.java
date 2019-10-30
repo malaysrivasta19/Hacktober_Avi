@@ -16,7 +16,7 @@ for(i=0;i<10;i++)
 if(i==pos)
 {
 for(j=i;j<9;j++)
-a[j]=a[j+1];
+a[j]=a[j+1];      //bsdchibsbcs
 }
 }
 for(i=0;i<9;i++)
