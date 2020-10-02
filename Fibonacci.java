@@ -2,15 +2,15 @@ class Prog43v
 {
 public static void main(String ar[])
 {
-int a=0,b=1,c;
-c=a+b;
-System.out.print(a+"\t"+b+"\t");
-while(c<=200)
+int A=0,B=1,C;
+C=A+B;
+System.out.print(A+"\t"+B+"\t");
+while(C<=200)
 {
-System.out.print(c+"\t");     //svdfgsucfgus
-a=b;
-b=c;
-c=a+b;
+System.out.print(C+"\t");     //svdfgsucfgus
+A=B;
+B=C;
+C=A+B;
 }
 }
 }
